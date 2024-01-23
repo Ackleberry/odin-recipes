@@ -1,0 +1,16 @@
+body {
+    max-width: 1000px;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgba(255, 81, 0, 0.288);
+    color: black;
+    margin-bottom: 20px;
+}
+
+ul li {
+    text-align: left;
+}
